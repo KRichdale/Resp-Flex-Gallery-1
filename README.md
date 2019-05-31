@@ -3,7 +3,7 @@
 First responsive flex box gallery attempt.
 Happy with device transistions.
 
-Flex box seems to streamline the process and make things exetremely easy. Loving the tool.
+Flex box seems to streamline the process and make things much easier positioning wise. Loving the tool.
 
 
 <h3> Problems </h3>
