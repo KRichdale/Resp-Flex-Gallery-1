@@ -27,6 +27,12 @@ body {
   margin-top: 8px;
   vertical-align: center;
 }
+.footer {
+  padding: 25px;
+  background: black;
+  color: white;
+  text-align: center;
+}
 
 @media (max-width: 800px) {
   .column {
